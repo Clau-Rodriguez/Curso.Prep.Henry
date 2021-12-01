@@ -249,6 +249,8 @@ function esVocal(letra){
   
 }
 
+//JUNIOR
+
 
 
 // No modificar nada debajo de esta línea
